@@ -297,6 +297,19 @@ claude-status
 
 ---
 
+Installing Z.AI Mcp Servers:
+Web Search MCP - https://docs.z.ai/devpack/mcp/search-mcp-server
+Vision MCP - https://docs.z.ai/devpack/mcp/vision-mcp-server
+
+Alternatives to Z.AI Mcp Servers for the lower tier subscription:
+Brave MCP - https://github.com/brave/brave-search-mcp-server
+mcp vision - https://github.com/groundlight/mcp-vision
+
+
+
+
+---
+
 ## 🔧 Troubleshooting Guide
 
 ### Common Issues & Solutions
