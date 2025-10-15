@@ -1,5 +1,7 @@
 # Claude Sonnet ↔ GLM-4.6 Switching Tutorial Companion
 
+![Cover Image](assets/cover.webp)
+
 > 📹 **Companion Guide for Video Tutorial**
 > Follow along step-by-step with the commands and configurations shown in the video.
 
