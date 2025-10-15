@@ -1,0 +1,14 @@
+# Claude Code local settings
+.claude/
+
+# Memory and task directories (local data)
+memories/
+tasks/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
